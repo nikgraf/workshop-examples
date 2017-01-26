@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Patrick",
+    "surname": "Stapfer",
+    "imageUrl": "https://pbs.twimg.com/profile_images/804581480504692736/G32q1fqA_400x400.jpg",
+    "isOnline": false
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "surname": "Stoiber",
+    "imageUrl": "https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg",
+    "isOnline": true
+  },
+  {
+    "id": 3,
+    "name": "Tereza",
+    "surname": "Sokol",
+    "imageUrl": "https://pbs.twimg.com/profile_images/824242201655910400/mY7NMaDE_400x400.jpg",
+    "isOnline": true
+  }
+]
